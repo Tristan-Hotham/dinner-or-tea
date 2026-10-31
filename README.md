@@ -4,7 +4,7 @@ What Britain calls its evening meal: 12,522 answers from the Our Dialects survey
 
 **Interactive version:** https://maps.tristanhotham.com/dinner-or-tea/
 
-**Paper:** https://doi.org/{{DOI}}
+**Paper:** https://doi.org/10.5281/zenodo.23842983
 
 **Blog post:** https://blog.tristanhotham.com/2026/10/31/dinner-or-tea/
 
@@ -74,7 +74,7 @@ python3 reddit/collage.py       # collage
 
 ## Citation
 
-Hotham, T. (2026). *Dinner, tea or supper? What Britain calls its evening meal*. Zenodo. https://doi.org/{{DOI}}
+Hotham, T. (2026). *Dinner, tea or supper? What Britain calls its evening meal*. Zenodo. https://doi.org/10.5281/zenodo.23842983
 
 Dr Tristan Hotham, Independent researcher. ORCID 0000-0003-4931-9349.
 

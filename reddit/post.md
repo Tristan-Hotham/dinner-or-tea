@@ -18,4 +18,4 @@ Tools: Python (pandas, NumPy, SciPy, geopandas, statsmodels, scikit-image, matpl
 
 Interactive version: https://maps.tristanhotham.com/dinner-or-tea/
 Blog post: https://blog.tristanhotham.com/2026/10/31/dinner-or-tea/
-Paper: https://doi.org/{{DOI}}
+Paper: https://doi.org/10.5281/zenodo.23842983
