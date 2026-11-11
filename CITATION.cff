@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Dinner, Tea or Supper? What Britain Calls Its Evening Meal: Mapping 12,522 Answers from the Our Dialects Survey"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.23842983"
+url: "https://maps.tristanhotham.com/dinner-or-tea/"
+repository-code: "https://github.com/Tristan-Hotham/dinner-or-tea"
+license: CC-BY-4.0
+keywords:
+  - "dialect"
+  - "British English"
+  - "dialect geography"
+  - "dinner"
+  - "tea"
+  - "supper"
+  - "meal names"
+  - "apparent time"
+  - "Our Dialects"
+  - "maps"
